@@ -1,7 +1,7 @@
 window.SITE_PROJEKTE = [
   {
     "titel": "Projektleitung Konzern-Systemtransformation (ERP & Energiedatenmanagement)",
-    "kurz": "Projektleitung eines Großprojekts mit sieben Teilprojekten zur Einführung und Umstellung zentraler Systeme: SAP S4U und Salesforce (SF) sowie Neuaufbau der Energiedatenmanagement-Systeme (EDM) für Lieferanten-, Netz- und Messstellenbetrieb. Schnittstellenentwicklung und -bereitstellung über Transconnect und Mulesoft mit AS4- und WebAPI-Integration. Koordinierung des Rollen- und Berechtigungskonzepts für SAP, SF und EDM sowie Koordinierung der Umsetzung von Intent-Erkennung sowie Analytics/Reporting im SAP-Umfeld.",
+    "kurz": "Projektleitung eines IT Großprojekts mit sieben Teilprojekten zur Einführung und Umstellung zentraler Systeme: SAP/S4U und Salesforce (SF) sowie Neuaufbau der Energiedatenmanagement-Systeme (EDM) für Lieferanten-, Netz- und Messstellenbetrieb. Schnittstellenentwicklung und -bereitstellung über Transconnect und Mulesoft mit AS4- und WebAPI-Integration. Koordinierung des Rollen- und Berechtigungskonzepts für SAP, SF und EDM sowie Koordinierung der Umsetzung von Intent-Erkennung sowie Analytics/Reporting im SAP-Umfeld.",
     "status": "Läuft",
     "tags": [
       "Großprojekt",
