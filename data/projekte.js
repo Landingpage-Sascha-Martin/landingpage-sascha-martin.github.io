@@ -99,7 +99,7 @@ window.SITE_PROJEKTE = [
   {
     "titel": "Wetter-App",
     "kurz": "Wetter-Suche per Postleitzahl oder Ort mit Vorschlägen schon ab dem ersten Zeichen und übersichtlicher 5-Tage-Vorhersage im modernen Design.",
-    "status": "In Arbeit",
+    "status": "Läuft",
     "tags": [
       "Web-App",
       "HTML/JS",
@@ -112,7 +112,7 @@ window.SITE_PROJEKTE = [
   },
   {
     "titel": "Aktien-Report",
-    "kurz": "Tägliche Kursübersicht als Kacheln – Gewinner links, Verlierer rechts, mit Verlaufslinie und Ein-Satz-Ereignis pro Aktie. Datenbasis ist eine Google-Tabelle, dazu ein automatischer Abendreport um 19:00 Uhr.",
+    "kurz": "Tägliche Kursübersicht als Kacheln – Gewinner links, Verlierer rechts, mit Verlaufslinie und Ein-Satz-Ereignis pro Aktie. Datenbasis ist eine Google-Sheet-Tabelle. Verschiedene Filterfunktionen sind ebenfalls implementiert.",
     "status": "Läuft",
     "tags": [
       "Google Sheets",
@@ -127,7 +127,7 @@ window.SITE_PROJEKTE = [
   {
     "titel": "Carfinder",
     "kurz": "Speichert beim Verlassen des Fahrzeugs automatisch den Standort per GPS und zeigt ihn auf einer Karte an. Auf dem Rückweg führt die App im Fußgänger-Modus zurück zum geparkten Auto, inkl. Entfernung, Gehzeit und Genauigkeit.",
-    "status": "In Arbeit",
+    "status": "Läuft",
     "tags": [
       "Android",
       "GPS",
@@ -180,7 +180,7 @@ window.SITE_PROJEKTE = [
   {
     "titel": "Diese Homepage",
     "kurz": "Meine persönliche Homepage selbst: Werdegang, Qualifikationen, Kompetenzen und Projekte, halbautomatisch aus LinkedIn-Daten gepflegt.",
-    "status": "In Arbeit",
+    "status": "Läuft",
     "tags": [
       "HTML/JS",
       "GitHub Pages"
