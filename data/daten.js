@@ -5,7 +5,7 @@ window.SITE_DATA = {
   },
   "profil": {
     "name": "Sascha Martin",
-    "titel": "M.Sc. Dipl.-Wirt.-Ing",
+    "titel": "M.Sc. Dipl.-Wirt.-Ing.",
     "kurzprofil": "Ich verbinde technisches Verständnis mit Führungserfahrung: von der Entwicklung eingebetteter Systeme über die Leitung internationaler Automotive-Großprojekte bis zum IT-Projektmanagement in der Energiewirtschaft. Struktur, klare Kommunikation und der Blick fürs große Ganze sind dabei meine Konstanten – ob im Anforderungsmanagement, in der Teamführung oder in komplexen, funktionsübergreifenden Projekten.",
     "ort": "Weinböhla",
     "linkedin": "https://www.linkedin.com/in/sascha-martin-39494343a",
