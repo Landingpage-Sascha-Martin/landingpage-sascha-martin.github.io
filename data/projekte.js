@@ -148,7 +148,7 @@ window.SITE_PROJEKTE = [
       "Bildbearbeitung",
       "Lokale KI"
     ],
-    "bild": "",
+    "bild": "img/projekte/bild-transformer.png",
     "link": "",
     "kategorie": "privat",
     "sichtbar": true
@@ -162,7 +162,7 @@ window.SITE_PROJEKTE = [
       "Chrome",
       "KI"
     ],
-    "bild": "",
+    "bild": "img/projekte/summarize-app.png",
     "link": "",
     "kategorie": "privat",
     "sichtbar": true
