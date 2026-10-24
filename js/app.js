@@ -288,7 +288,7 @@
             h("p", { class: "pdesc", text: p.kurz || "" })
           ])
         : h("p", { class: "pdesc", text: p.kurz || "" }),
-      (isBusiness && p.tags && p.tags.length) ? h("ul", { class: "ptags" }, p.tags.map(function (t) { return h("li", { class: "ptag", text: t }); })) : null,
+      (p.tags && p.tags.length) ? h("ul", { class: "ptags" }, p.tags.map(function (t) { return h("li", { class: "ptag", text: t }); })) : null,
       link ? h("a", { class: "plink", href: link, target: "_blank", rel: "noopener noreferrer", text: "Ansehen ↗" }) : null
     ]);
     if (isBusiness) return h("li", { class: "pcard pcard-business" }, [body]);
