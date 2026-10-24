@@ -160,7 +160,7 @@ window.SITE_PROJEKTE = [
   },
   {
     "titel": "Kurzgefasst",
-    "kurz": "Schlanke, leichte App, direkt im Browser integriert. Fasst lange Webseiten direkt am Handy zusammen: Seite in Chrome über „Teilen“ an Kurzgefasst schicken, Zusammenfassung über Gemini-KI oder Groq-KI auswählen, fertig. Dabei wird nichts gespeichert und nichts öffentlich sichtbar.",
+    "kurz": "Schlanke, leichte App, direkt im Browser integriert. Fasst lange Webseiten direkt am Handy zusammen: Seite in Chrome über „Teilen“ an Kurzgefasst schicken, Zusammenfassung über Gemini-KI, Groq-KI oder Claude (kostenpflichtig) auswählen, fertig. Dabei wird nichts gespeichert und nichts öffentlich sichtbar.",
     "status": "Läuft",
     "tags": [
       "Web-App",
