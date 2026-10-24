@@ -99,7 +99,7 @@ window.SITE_PROJEKTE = [
   {
     "titel": "Wetter-App",
     "kurz": "Wetter-Suche per Postleitzahl oder Ort mit Vorschlägen schon ab dem ersten Zeichen und übersichtlicher 5-Tage-Vorhersage im modernen Design.",
-    "status": "Läuft",
+    "status": "In Arbeit",
     "tags": [
       "Web-App",
       "HTML/JS",
@@ -127,7 +127,7 @@ window.SITE_PROJEKTE = [
   {
     "titel": "Carfinder",
     "kurz": "Speichert beim Verlassen des Fahrzeugs automatisch den Standort per GPS und zeigt ihn auf einer Karte an. Auf dem Rückweg führt die App im Fußgänger-Modus zurück zum geparkten Auto, inkl. Entfernung, Gehzeit und Genauigkeit.",
-    "status": "Läuft",
+    "status": "In Arbeit",
     "tags": [
       "Android",
       "GPS",
@@ -140,9 +140,37 @@ window.SITE_PROJEKTE = [
     "sichtbar": true
   },
   {
+    "titel": "Bild-Transformer",
+    "kurz": "Lokal laufende Foto-App für Android und PC: Erkennt Schrift automatisch auf Fotos, entfernt sie und rekonstruiert das Bild. Vergleichsregler zwischen Original und Ergebnis, Buttons für gängige Bearbeitungen sowie freie Eingabe an eine lokale KI. Läuft komplett auf dem Gerät, keine Fotos verlassen es.",
+    "status": "In Arbeit",
+    "tags": [
+      "Android",
+      "Bildbearbeitung",
+      "Lokale KI"
+    ],
+    "bild": "",
+    "link": "",
+    "kategorie": "privat",
+    "sichtbar": true
+  },
+  {
+    "titel": "Summarize-App",
+    "kurz": "Fasst Webseiten direkt aus Chrome heraus zusammen, aufrufbar per „Teilen“ am Handy – wahlweise mit Claude oder Gemini. Die aufgerufenen Seiten bleiben privat und werden nirgends veröffentlicht.",
+    "status": "In Arbeit",
+    "tags": [
+      "Android",
+      "Chrome",
+      "KI"
+    ],
+    "bild": "",
+    "link": "",
+    "kategorie": "privat",
+    "sichtbar": true
+  },
+  {
     "titel": "Diese Homepage",
     "kurz": "Meine persönliche Homepage selbst: Werdegang, Qualifikationen, Kompetenzen und Projekte, halbautomatisch aus LinkedIn-Daten gepflegt.",
-    "status": "Läuft",
+    "status": "In Arbeit",
     "tags": [
       "HTML/JS",
       "GitHub Pages"
