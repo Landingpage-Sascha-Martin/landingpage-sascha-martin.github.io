@@ -16,7 +16,7 @@ window.SITE_DATA = {
   "karriere": [
     {
       "firma": "SachsenEnergie AG",
-      "titel": "IT-Projektkoordinator (Bereich IE)",
+      "titel": "IT-Projektkoordinator",
       "ort": "",
       "beschreibung": "Projektmanagement für den IT-Bereich im energiewirtschaftlichen Kontext: Ressourcen-, Budget- und Zeitplansteuerung, Projekt-Controlling sowie Koordination interner und externer IT-Dienstleister.",
       "start": "2022-01",
