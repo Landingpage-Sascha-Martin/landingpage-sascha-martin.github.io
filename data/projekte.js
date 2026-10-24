@@ -140,13 +140,18 @@ window.SITE_PROJEKTE = [
     "sichtbar": true
   },
   {
-    "titel": "Bild-Transformer",
-    "kurz": "Lokal laufende Foto-App für Android und PC: Erkennt Schrift automatisch auf Fotos, entfernt sie und rekonstruiert das Bild. Vergleichsregler zwischen Original und Ergebnis, Buttons für gängige Bearbeitungen sowie freie Eingabe an eine lokale KI. Läuft komplett auf dem Gerät, keine Fotos verlassen es.",
-    "status": "In Arbeit",
+    "titel": "Bildtransformer",
+    "kurz": "Eine Foto-App fürs Handy mit Werkzeugen für Objektentfernung, Korrektur, Farbe und Stil sowie freien Befehlen wie „etwas wärmer und das Rot raus“. Als PWA (Progressive Web App) lässt sie sich ohne App-Store direkt aus dem Browser installieren und funktioniert offline. Die Open-Source-KI-Modelle MI-GAN und LaMa werden einmalig heruntergeladen und lokal gespeichert, danach verlässt kein Foto mehr das Handy.",
+    "status": "Läuft",
     "tags": [
-      "Android",
+      "Web-App",
+      "PWA",
+      "HTML/JS",
+      "KI lokal",
+      "Open Source",
       "Bildbearbeitung",
-      "Lokale KI"
+      "Offline",
+      "Datenschutz"
     ],
     "bild": "img/projekte/bild-transformer.png",
     "link": "",
@@ -154,13 +159,18 @@ window.SITE_PROJEKTE = [
     "sichtbar": true
   },
   {
-    "titel": "Summarize-App",
-    "kurz": "Fasst Webseiten direkt aus Chrome heraus zusammen, aufrufbar per „Teilen“ am Handy – wahlweise mit Claude oder Gemini. Die aufgerufenen Seiten bleiben privat und werden nirgends veröffentlicht.",
-    "status": "In Arbeit",
+    "titel": "Kurzgefasst",
+    "kurz": "Schlanke, leichte App, direkt im Browser integriert. Fasst lange Webseiten direkt am Handy zusammen: Seite in Chrome über „Teilen“ an Kurzgefasst schicken, Zusammenfassung über Gemini-KI oder Groq-KI auswählen, fertig. Dabei wird nichts gespeichert und nichts öffentlich sichtbar.",
+    "status": "Läuft",
     "tags": [
-      "Android",
-      "Chrome",
-      "KI"
+      "Web-App",
+      "HTML/JS",
+      "Google Apps Script",
+      "KI",
+      "Claude",
+      "Gemini",
+      "Groq",
+      "Android"
     ],
     "bild": "img/projekte/summarize-app.png",
     "link": "",
